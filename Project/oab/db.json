@@ -1,0 +1,50 @@
+{
+  "register":[
+    { "name":"ilamathi",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+
+    { "name":"greeshma",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+  
+    { "name":"gowshri",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+      
+    { "name":"harsshitha",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+    { "name":"ilamathi",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+
+    { "name":"greeshma",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+  
+    { "name":"gowshri",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+      
+    { "name":"harsshitha",
+      "email":"727722euit069@skcet.ac.in",
+      "password":"123",
+      "conformpassword":"123"  },
+
+
+    { "name":"skcet",
+      "email":"skcet",
+      "password":"123",
+      "conformpassword":"123"  }
+
+   
+  ]
+}
